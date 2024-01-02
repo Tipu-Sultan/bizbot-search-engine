@@ -15,8 +15,8 @@
 
 <body>
 
-    <div class="container text-center">
-        <h1 class="mb-4">Product Search</h1>
+    <div class="container ">
+        <h1 class="mb-4 text-center">Product Search</h1>
         <div class="row justify-content-center">
             <div class="col-lg-8 col-md-8 col-sm-12 col-12 mb-3">
                 <div class="input-group">
